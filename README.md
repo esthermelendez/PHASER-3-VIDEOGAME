@@ -25,6 +25,6 @@
  
  <img src="instrucciones/g3.PNG"><br>
  
- <img src="instrucciones/g4.PNG"><br>
+ <img src="instrucciones/g4.png"><br>
  
  
